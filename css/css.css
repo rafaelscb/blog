@@ -1,0 +1,14 @@
+#container {
+    
+}
+#header{
+    border-bottom: 1px solid #000;
+    width: 100%;
+}
+#content{
+    margin: 50px;
+}
+#footer{
+    border-top: 1px solid #000;
+    width: 100%;
+}
